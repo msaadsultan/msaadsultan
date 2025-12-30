@@ -1,4 +1,4 @@
-## building, breaking, learning, rpeating...!
+## building, breaking, learning, Repeating...!
 
 <!--
 **msaadsultan/msaadsultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
